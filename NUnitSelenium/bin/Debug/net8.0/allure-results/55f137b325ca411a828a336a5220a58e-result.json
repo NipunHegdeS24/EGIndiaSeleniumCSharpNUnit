@@ -1,0 +1,59 @@
+{
+  "uuid": "4337ebf9-f7b6-42b2-b2db-87e5a59989b6",
+  "historyId": "24a8114163de93ce70e9c64d1c7dfd61",
+  "testCaseId": "02283431a5dc1f516582db6407c0ce3b",
+  "fullName": "NUnitSelenium:NUnitSelenium.Assignments.ParaBank.RegristrationBank()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOR6EB8X1U8PD"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSelenium.Assignments"
+    },
+    {
+      "name": "testMethod",
+      "value": "RegristrationBank"
+    },
+    {
+      "name": "testClass",
+      "value": "ParaBank"
+    },
+    {
+      "name": "tag",
+      "value": "Registration test"
+    },
+    {
+      "name": "tag",
+      "value": "Parabank Website Testing..."
+    }
+  ],
+  "links": [],
+  "name": "RegristrationBank",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "f562b8ce-5fd1-4160-bf30-e1b763a312e9-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1727091350635,
+  "stop": 1727091386138
+}

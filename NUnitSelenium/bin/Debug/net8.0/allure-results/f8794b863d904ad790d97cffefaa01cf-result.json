@@ -1,0 +1,52 @@
+{
+  "uuid": "5aab8ab0-ac49-4436-99cb-350babd34a7f",
+  "historyId": "a196623e3c6488de9ef43c190e222153",
+  "testCaseId": "4f99cdfacc8df719623b5b9f373404d7",
+  "fullName": "NUnitSelenium:NUnitSelenium.Assignments.ParaBank.Regristration()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOR6EB8X1U8PD"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSelenium.Assignments"
+    },
+    {
+      "name": "testMethod",
+      "value": "Regristration"
+    },
+    {
+      "name": "testClass",
+      "value": "ParaBank"
+    }
+  ],
+  "links": [],
+  "name": "Regristration",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.InvalidSelectorException : invalid selector\nfrom javascript error: {\"status\":32,\"value\":\"Unable to locate an element with the xpath expression //p[contains(text(),'If you have an account with us you can sign-up for free instant online access. You will have to provide some personal information.') because of the following error:\\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//p[contains(text(),'If you have an account with us you can sign-up for free instant online access. You will have to provide some personal information.')' is not a valid XPath expression.\"}\n  (Session info: chrome=129.0.6668.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception",
+    "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)\r\n   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)\r\n   at OpenQA.Selenium.By.FindElement(ISearchContext context)\r\n   at OpenQA.Selenium.WebDriver.FindElement(By by)\r\n   at NUnitSelenium.Assignments.ParaBank.Regristration() in C:\\Users\\nihso\\source\\repos\\NUnitSelenium\\Assignments\\ParaBank.cs:line 93\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1727089484015,
+  "stop": 1727089524829
+}

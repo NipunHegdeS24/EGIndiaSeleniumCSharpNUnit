@@ -1,0 +1,53 @@
+{
+  "uuid": "85a39d25-475b-4275-8603-36a469a484fc",
+  "historyId": "e066c86847236ababd5bf00a354c3704",
+  "testCaseId": "a765d9cf1b3433de735be43db7df79ca",
+  "fullName": "NUnitSelenium:NUnitSelenium.Assignments.ParaBank.LoginBank()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOR6EB8X1U8PD"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSelenium.Assignments"
+    },
+    {
+      "name": "testMethod",
+      "value": "LoginBank"
+    },
+    {
+      "name": "testClass",
+      "value": "ParaBank"
+    },
+    {
+      "name": "tag",
+      "value": "Login Test"
+    },
+    {
+      "name": "tag",
+      "value": "Parabank Website Testing..."
+    }
+  ],
+  "links": [],
+  "name": "LoginBank",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1727091386207,
+  "stop": 1727091402227
+}

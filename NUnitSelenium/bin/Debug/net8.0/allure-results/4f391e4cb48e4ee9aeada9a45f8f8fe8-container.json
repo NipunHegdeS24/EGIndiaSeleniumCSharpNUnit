@@ -1,0 +1,12 @@
+{
+  "uuid": "61dcaaf5-f14b-4777-b91d-d0361dc8d34c",
+  "name": "NUnitSelenium.Assignments.ParaBank.LoginBank",
+  "children": [
+    "85a39d25-475b-4275-8603-36a469a484fc"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1727091386207,
+  "stop": 1727091402233
+}

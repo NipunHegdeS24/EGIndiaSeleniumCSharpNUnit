@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\nihso\\source\\repos\\nunitc#qa\\nunitselenium\\assignments\\parabank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:assignments\\parabank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\nihso\\source\\repos\\nunitc#qa\\nunitselenium\\nunittest\\factorialunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:nunittest\\factorialunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\nihso\\source\\repos\\nunitc#qa\\nunitselenium\\nunittest\\primenumberunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:nunittest\\primenumberunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\nihso\\source\\repos\\nunitc#qa\\nunitselenium\\nunittest\\assertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:nunittest\\assertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\nihso\\source\\repos\\nunitc#qa\\nunitselenium\\nunittest\\setupteardown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:nunittest\\setupteardown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\nihso\\source\\repos\\nunitc#qa\\nunitselenium\\nunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:nunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\nihso\\source\\repos\\nunitc#qa\\nunitselenium\\nunittest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:nunittest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\nihso\\source\\repos\\nunitc#qa\\nunitselenium\\selenium\\assignment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:selenium\\assignment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\nihso\\source\\repos\\nunitc#qa\\nunitselenium\\nunittest\\alluretestreportgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:nunittest\\alluretestreportgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\nihso\\source\\repos\\nunitc#qa\\nunitselenium\\assignments\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:assignments\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\nihso\\source\\repos\\nunitc#qa\\nunitselenium\\utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\nihso\\source\\repos\\nunitc#qa\\nunitselenium\\selenium\\checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:selenium\\checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FactorialUnitTesting.cs",
+              "DocumentMoniker": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\NUnitTest\\FactorialUnitTesting.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\FactorialUnitTesting.cs",
+              "ToolTip": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\NUnitTest\\FactorialUnitTesting.cs",
+              "RelativeToolTip": "NUnitTest\\FactorialUnitTesting.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:07:58.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrimeNumberUnitTesting.cs",
+              "DocumentMoniker": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\NUnitTest\\PrimeNumberUnitTesting.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\PrimeNumberUnitTesting.cs",
+              "ToolTip": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\NUnitTest\\PrimeNumberUnitTesting.cs",
+              "RelativeToolTip": "NUnitTest\\PrimeNumberUnitTesting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:07:38.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Assertions.cs",
+              "DocumentMoniker": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\NUnitTest\\Assertions.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\Assertions.cs",
+              "ToolTip": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\NUnitTest\\Assertions.cs",
+              "RelativeToolTip": "NUnitTest\\Assertions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:06:08.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SetUpTearDown.cs",
+              "DocumentMoniker": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\NUnitTest\\SetUpTearDown.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\SetUpTearDown.cs",
+              "ToolTip": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\NUnitTest\\SetUpTearDown.cs",
+              "RelativeToolTip": "NUnitTest\\SetUpTearDown.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:05:59.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\NUnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\NUnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "NUnitTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:05:52.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\NUnitTest\\Test1.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\NUnitTest\\Test1.cs",
+              "RelativeToolTip": "NUnitTest\\Test1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:05:50.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Assignment1.cs",
+              "DocumentMoniker": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\Selenium\\Assignment1.cs",
+              "RelativeDocumentMoniker": "Selenium\\Assignment1.cs",
+              "ToolTip": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\Selenium\\Assignment1.cs",
+              "RelativeToolTip": "Selenium\\Assignment1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:37:36.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParaBank.cs",
+              "DocumentMoniker": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\Assignments\\ParaBank.cs",
+              "RelativeDocumentMoniker": "Assignments\\ParaBank.cs",
+              "ToolTip": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\Assignments\\ParaBank.cs",
+              "RelativeToolTip": "Assignments\\ParaBank.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:37:24.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AllureTestReportGeneration.cs",
+              "DocumentMoniker": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\NUnitTest\\AllureTestReportGeneration.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\AllureTestReportGeneration.cs",
+              "ToolTip": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\NUnitTest\\AllureTestReportGeneration.cs",
+              "RelativeToolTip": "NUnitTest\\AllureTestReportGeneration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:27:14.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\Assignments\\Booking.cs",
+              "RelativeDocumentMoniker": "Assignments\\Booking.cs",
+              "ToolTip": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\Assignments\\Booking.cs",
+              "RelativeToolTip": "Assignments\\Booking.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwEYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:23:12.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\Utilities\\Base.cs",
+              "RelativeDocumentMoniker": "Utilities\\Base.cs",
+              "ToolTip": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\Utilities\\Base.cs",
+              "RelativeToolTip": "Utilities\\Base.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:54:19.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CheckBox.cs",
+              "DocumentMoniker": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\Selenium\\CheckBox.cs",
+              "RelativeDocumentMoniker": "Selenium\\CheckBox.cs",
+              "ToolTip": "C:\\Users\\nihso\\source\\repos\\NunitC#QA\\NUnitSelenium\\Selenium\\CheckBox.cs",
+              "RelativeToolTip": "Selenium\\CheckBox.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:39:32.708Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
