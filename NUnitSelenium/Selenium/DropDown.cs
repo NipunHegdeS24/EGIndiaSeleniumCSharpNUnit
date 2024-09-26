@@ -17,6 +17,7 @@ namespace NUnitSelenium.Selenium
         [SetUp]
         public void setUp()
         {
+            //set up of the test
             new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
             driver = new ChromeDriver();
 
